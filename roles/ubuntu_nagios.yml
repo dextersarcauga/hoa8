@@ -1,5 +1,0 @@
----
-- name: Install Nagios on Ubuntu
-  apt:
-    name: nagios4
-    state: present
