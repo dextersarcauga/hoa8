@@ -1,3 +1,0 @@
----
-- name: Install Nagios
-  include_tasks: install_nagios.yml
